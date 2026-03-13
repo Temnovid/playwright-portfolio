@@ -1,1 +1,3 @@
-node_modules/\ntest-results/\nplaywright-report/
+node_modules/
+test-results/
+playwright-report/
